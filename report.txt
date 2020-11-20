@@ -1,4 +1,4 @@
-Sat Nov 21 00:36:52 +03 2020
+Sat Nov 21 00:45:42 +03 2020
 
 
 Nmap scan report for 192.168.100.1
@@ -9,15 +9,15 @@ Nmap scan report for 192.168.100.18
 Nmap scan report for 192.168.100.26
 Nmap scan report for 192.168.100.41
 Nmap scan report for 192.168.100.254
-Nmap done: 256 IP addresses (8 hosts up) scanned in 3.26 seconds
+Nmap done: 256 IP addresses (8 hosts up) scanned in 15.98 seconds
 
 
    Speedtest by Ookla
 
-     Server: A1 - Minsk (id = 4521)
+     Server: MGTS - Minsk (id = 1119)
         ISP: Beltelecom
-    Latency:     4.03 ms   (0.89 ms jitter)
-   Download:    19.11 Mbps (data used: 8.6 MB)                               
-     Upload:    17.05 Mbps (data used: 28.9 MB)                               
-Packet Loss:     1.4%
- Result URL: https://www.speedtest.net/result/c/13cb1c8f-3bff-4471-9a5e-9b247aa30d44
+    Latency:     2.83 ms   (0.62 ms jitter)
+   Download:    16.51 Mbps (data used: 8.2 MB)                               
+     Upload:    37.44 Mbps (data used: 53.6 MB)                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/6920f844-71e8-4042-b173-71aa0c0c3f18
