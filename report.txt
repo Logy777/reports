@@ -1,20 +1,23 @@
-Sat Nov 21 00:27:22 +03 2020
+Sat Nov 21 00:36:52 +03 2020
 
 
 Nmap scan report for 192.168.100.1
+Nmap scan report for 192.168.100.3
 Nmap scan report for 192.168.100.13
 Nmap scan report for 192.168.100.14
+Nmap scan report for 192.168.100.18
+Nmap scan report for 192.168.100.26
 Nmap scan report for 192.168.100.41
 Nmap scan report for 192.168.100.254
-Nmap done: 256 IP addresses (5 hosts up) scanned in 2.96 seconds
+Nmap done: 256 IP addresses (8 hosts up) scanned in 3.26 seconds
 
 
    Speedtest by Ookla
 
-     Server: BYFLY.BY - Minsk (id = 25480)
+     Server: A1 - Minsk (id = 4521)
         ISP: Beltelecom
-    Latency:     2.65 ms   (0.97 ms jitter)
-   Download:    18.30 Mbps (data used: 21.0 MB)                               
-     Upload:    32.67 Mbps (data used: 46.1 MB)                               
-Packet Loss:     0.0%
- Result URL: https://www.speedtest.net/result/c/a3b8e462-0aa9-4e55-bb50-4d0bffce6859
+    Latency:     4.03 ms   (0.89 ms jitter)
+   Download:    19.11 Mbps (data used: 8.6 MB)                               
+     Upload:    17.05 Mbps (data used: 28.9 MB)                               
+Packet Loss:     1.4%
+ Result URL: https://www.speedtest.net/result/c/13cb1c8f-3bff-4471-9a5e-9b247aa30d44
