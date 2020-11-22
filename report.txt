@@ -1,22 +1,21 @@
-Sat Nov 21 01:10:57 +03 2020
+Sun Nov 22 09:09:33 +03 2020
 
 
 Nmap scan report for 192.168.100.1
 Nmap scan report for 192.168.100.13
 Nmap scan report for 192.168.100.14
 Nmap scan report for 192.168.100.18
-Nmap scan report for 192.168.100.26
 Nmap scan report for 192.168.100.41
 Nmap scan report for 192.168.100.254
-Nmap done: 256 IP addresses (7 hosts up) scanned in 3.24 seconds
+Nmap done: 256 IP addresses (6 hosts up) scanned in 6.84 seconds
 
 
    Speedtest by Ookla
 
      Server: JLLC "COSMOS TV" - Minsk (id = 10323)
         ISP: Beltelecom
-    Latency:     2.69 ms   (0.16 ms jitter)
-   Download:    23.02 Mbps (data used: 22.0 MB)                               
-     Upload:    17.75 Mbps (data used: 26.7 MB)                               
+    Latency:     2.94 ms   (0.17 ms jitter)
+   Download:    23.67 Mbps (data used: 20.2 MB)                               
+     Upload:    17.06 Mbps (data used: 28.5 MB)                               
 Packet Loss:     0.0%
- Result URL: https://www.speedtest.net/result/c/b9f5d043-f4b9-401d-a037-c0e753cf3053
+ Result URL: https://www.speedtest.net/result/c/ff929f11-f7f6-45d8-98af-b1b0e0b51a29
